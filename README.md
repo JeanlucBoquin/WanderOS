@@ -23,9 +23,10 @@ Dado que cuenta con un abanico de programas lo suficientemente amplio para ser u
 Lenguajes soportados
 ---
 - C
-- Python
 - Java
 - JavaScript
+- PHP 
+- Python
 
 Herramientas
 ---
