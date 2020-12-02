@@ -33,6 +33,7 @@ Herramientas
 - Qt5
 - IDE Arduino
 - Node-red
+- Entre muchas mas
 
 Instruciones:
 ---
