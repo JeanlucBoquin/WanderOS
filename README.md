@@ -34,6 +34,7 @@ Herramientas
 - Qt5
 - IDE Arduino
 - Node-red
+- netbeans
 - Entre muchas mas
 
 Instruciones:
