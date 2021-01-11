@@ -105,6 +105,7 @@ xfsprogs
 xl2tpd
 zsh
 grub
+
 firefox
 
 #XORG
@@ -138,6 +139,9 @@ xfce4-whiskermenu-plugin
 xfce4-pulseaudio-plugin
 xdg-user-dirs
 papirus-icon-theme
+pulseaudio
+#pulseaudio-bluetooth
+pavucontrol
 
 #calamares.dependencies
 boost
