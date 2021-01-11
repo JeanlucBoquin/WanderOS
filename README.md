@@ -41,7 +41,7 @@ Instruciones:
 ---
 Realizar los siguientes pasos como usuario root.
 - git clone https://github.com/JeanlucBoquin/WanderOS.git
-- mkarchiso -v -w WanderoS/work -o WanderoS/out WanderoS/
+- mkarchiso -v -w WanderOS/work -o WanderOS/out WanderOS/
 - run_archiso -i WanderoS/out/wanderos-yyyy.mm.dd-x86_64.iso
 En caso que el ultimo comando les marque error "qemu"
 
