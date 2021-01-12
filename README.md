@@ -6,6 +6,13 @@ WanderOS es un sistema operativo basado en Arch Linux, elaborado con Archiso. El
 
 Dado dicho objetivo, esperamos que aquella persona que instale WanderOS en su ordenador comience a trabajar inmediatamente y si necesita configurar algo, sea lo minimo posible.
 
+Desktop
+![Desktop_WanderOS](https://raw.githubusercontent.com/JeanlucBoquin/WanderOS/main/img/EscritorioWander.png "Desktop")
+
+---
+Calamares
+![Desktop_WanderOS](https://raw.githubusercontent.com/JeanlucBoquin/WanderOS/main/img/CalamaresWander.png "Desktop")
+
 Entorno de escritorio
 ---
 **XFCE4** personalizado
